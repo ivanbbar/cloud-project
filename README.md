@@ -77,7 +77,7 @@ Ao prosseguir, o comando terraform init é executado e a aplicação de fato se 
 
 ### Users 
 
-> *No menu que gerencia usuários, o usuário pode escolher qual ação ele quer executar.(\
+> *No menu que gerencia usuários, o usuário pode escolher qual ação ele quer executar.*\
 > \
 > [c] Criar Usuários\
 > [l] Lista Usuários Existentes\
