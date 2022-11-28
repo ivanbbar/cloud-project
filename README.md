@@ -49,7 +49,7 @@ O menu de boas-vindas se iniciará, onde o usuário pode digitar `y` para inicia
 Ao prosseguir, o comando terraform init é executado e a aplicação de fato se inicia. A tela principal é exibida.
 
 
-> Na tela principal, o usuário pode escolher qual modulo ele quer executar ações.\
+> *Na tela principal, o usuário pode escolher qual modulo ele quer executar ações.*\
 > \
 > [i] Menu que gerencia Instances\
 > [s] Menu que gerencia Security Groups\
@@ -58,7 +58,7 @@ Ao prosseguir, o comando terraform init é executado e a aplicação de fato se 
 
 ### Instances 
 
-> No menu que gerencia instâncias, o usuário pode escolher qual ação ele quer executar.\
+> *No menu que gerencia instâncias, o usuário pode escolher qual ação ele quer executar.*\
 > \
 > [c] Criar Instâncias (de dois tipos diferentes, t2.nano e t2.micro)\
 > [l] Lista Instâncias Existentes\
@@ -67,7 +67,7 @@ Ao prosseguir, o comando terraform init é executado e a aplicação de fato se 
 
 ### Security Groups 
 
-> No menu que gerencia security groups, o usuário pode escolher qual ação ele quer executar.\
+> *No menu que gerencia security groups, o usuário pode escolher qual ação ele quer executar.*\
 > \
 > [c] Criar Security Groups (com configurações default)\
 > [l] Lista Security Groups Existentes\
@@ -77,7 +77,7 @@ Ao prosseguir, o comando terraform init é executado e a aplicação de fato se 
 
 ### Users 
 
-> No menu que gerencia usuários, o usuário pode escolher qual ação ele quer executar.\
+> *No menu que gerencia usuários, o usuário pode escolher qual ação ele quer executar.(\
 > \
 > [c] Criar Usuários\
 > [l] Lista Usuários Existentes\
