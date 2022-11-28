@@ -50,32 +50,36 @@ Ao prosseguir, o comando terraform init é executado e a aplicação de fato se 
 
 
 > Na tela principal, o usuário pode escolher qual modulo ele quer executar ações.\
+> \
 > [i] Menu que gerencia Instances\
 > [s] Menu que gerencia Security Groups\
 > [u] Menu que gerencia Users\
-> [q] Quit\
+> [q] Quit
 
 ### Instances 
 
 > No menu que gerencia instâncias, o usuário pode escolher qual ação ele quer executar.\
+> \
 > [c] Criar Instâncias (de dois tipos diferentes, t2.nano e t2.micro)\
 > [l] Lista Instâncias Existentes\
 > [d] Deleta Instâncias\
-> [b] Volta para a tela principal\
+> [b] Volta para a tela principal
 
 ### Security Groups 
 
 > No menu que gerencia security groups, o usuário pode escolher qual ação ele quer executar.\
+> \
 > [c] Criar Security Groups (com configurações default)\
 > [l] Lista Security Groups Existentes\
 > [d] Deleta Security Groups\
 > [a] Associa Security Group com Instância Existente\
-> [b] Volta para a tela principal\
+> [b] Volta para a tela principal
 
 ### Users 
 
 > No menu que gerencia usuários, o usuário pode escolher qual ação ele quer executar.\
+> \
 > [c] Criar Usuários\
 > [l] Lista Usuários Existentes\
 > [d] Deleta Usuários\
-> [b] Volta para a tela principal\
+> [b] Volta para a tela principal
